@@ -66,7 +66,7 @@
 "KTMFMASDKWX" = "WeChat";
 "KTMFMASDKWXMoments" = "Moments";
 "KTMFMASDKSendWXFriends" = "Envoyer à des amis";
-"KTMFMASDKSavePhotosAlbum" = "Enregistrer dans l'album";
+"KTMFMASDKSavePhotosAlbum" = "sauvegarder";
 "KTMFMASDKScopeChooseMessageFileTitle" = "Accès à vos fichiers locaux";
 "KTMFMASDKScopeChooseMessageFileDesc" = "Le mini-programme demande l'accès à vos fichiers locaux.";
 "KTMFMASDKScopeChooseMessageFilePageTitle" = "Fichiers";
@@ -192,3 +192,7 @@
 "KTMFMASDKCamera" = "Caméra";
 "KTMFMASDKMicrophone" = "Microphone";
 "KTMFMASDKCameraAndMicrophone" = "Caméra et Microphone";
+"KTMFMASDKScopePhoneNumberTitle" = "Demande à accéder à votre numéro de téléphone pour le vérifier";
+"KTMFMASDKScopePhoneNumberDesc" = "Pour les services personnalisés, numéro de téléphone est requis";
+"KTMFMASDKScopePhoneEmailTitle" = "Demande à accéder à votre e-mail pour le vérifier";
+"KTMFMASDKScopePhoneEmailDesc" = "Pour les services personnalisés, e-mail est requis";
